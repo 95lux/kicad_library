@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTV112-4420A-B503
+D Bourns Carbon Film Potentiometer PTV Series with a 6 mm Dia. Shaft 50k +/-20% 0.05W, Linear, Through Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+#End Doc Library
