@@ -261,4 +261,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "2522c88e-5d53-451f-a060-f5e34c656e80")
 	)
+	(model "C:/Users/jonas/repos/kicad_library/3dmodels/LMV722IDR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

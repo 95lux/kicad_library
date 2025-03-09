@@ -1,0 +1,152 @@
+(footprint "PTL30-15R1-103B2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -8.25 -2.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4e926f2c-648b-41c7-a8c5-8e0527b99144")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "PTL30-15R1-103B2"
+		(at -13.991666 -1.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "75e75a8d-3b59-4912-902a-3b35de3ce5bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 -3.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7a7a818-e255-453e-8838-09d07ba503bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -3.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d53eb9c-5af7-462a-a881-ebc305b94fc5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Bourns 30mm Fader with LED"
+		(at -17.491667 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1179a811-a850-40f4-800d-6e55590d4547")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2.5 -4.5)
+		(end 42.5 4.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "7d3b9e35-f683-4ce4-b7dd-25891edf5d7e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -11.586905 0.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5afeb4ba-f19d-49d0-bee9-70b2ebdee247")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -1.25)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4d341c7f-27f2-4d05-a8c6-3e5b4342a22a")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -3.75)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9c563663-08bc-4d43-ae15-48750df1225d")
+	)
+	(pad "3" thru_hole circle
+		(at 40 -1.25)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6c87a928-3a87-4920-b3fc-d214819d25b8")
+	)
+	(pad "4" thru_hole circle
+		(at 0 1.25)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fc6859dc-46c2-4e0c-bd7f-fe5767777a7d")
+	)
+	(pad "5" thru_hole circle
+		(at 0 3.75)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ea9a109-7cc6-4462-a852-5c996e1deda4")
+	)
+	(pad "6" thru_hole circle
+		(at 40 3.75)
+		(size 1.2 1.2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e4394f5d-ab40-4ec3-9f6b-af0b377247da")
+	)
+	(model "C:/Users/jonas/repos/kicad_library/3dmodels/PTL30-15R1-103B2.STEP"
+		(offset
+			(xyz 20 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

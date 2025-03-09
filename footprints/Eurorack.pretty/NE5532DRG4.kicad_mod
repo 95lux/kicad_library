@@ -261,4 +261,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "cfca7c4f-8518-4f98-bfe7-885239efc791")
 	)
+	(model "C:/Users/jonas/repos/kicad_library/3dmodels/NE5532DRG4.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
